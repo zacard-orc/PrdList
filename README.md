@@ -8,5 +8,5 @@
 技术栈：NodeJs
 详细地址：todo
 ```
-![rdd_2020](./sucai/rdd_1.jpg)
+ <img src="./sucai/rdd_1.jpg" width = "100%" alt="图片名称" align=center />
 
