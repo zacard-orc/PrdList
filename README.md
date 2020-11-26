@@ -8,5 +8,14 @@
 技术栈：NodeJs
 详细地址：https://github.com/zacard-orc/FundInfo.git
 ```
- <img src="./sucai/rdd_1.jpg" width = "100%" alt="图片名称" align=center />
+ <img src="./sucai/rdd_1.jpg" width = "100%" alt="rdd_1.jpg" align=center />
+
+
+## Vue兴趣代码片断
+```text
+项目介绍：Vue2.0下一些感兴趣的组件代码片段
+技术栈：Vue2.0
+详细地址：https://github.com/zacard-orc/vw3.git
+```
+ <img src="./sucai/vw3_timepicker.jpg" width = "100%" alt="vw3_timepicker.jpg" align=center />
 
