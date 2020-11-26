@@ -17,5 +17,5 @@
 技术栈：Vue2.0
 详细地址：https://github.com/zacard-orc/vw3.git
 ```
- <img src="./sucai/vw3_timepicker.jpg" width = "100%" alt="vw3_timepicker.jpg" align=center />
+ <img src="./sucai/vw3_timepicker.jpg" width = "30%" alt="vw3_timepicker.jpg" align=center />
 
